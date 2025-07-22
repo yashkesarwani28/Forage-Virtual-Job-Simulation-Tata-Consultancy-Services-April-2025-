@@ -20,9 +20,10 @@ This repository showcases the work completed as part of the **Tata Data Visualis
 
 ## 📂 Contents
 
-- `/Visuals/` – Contains screenshots of the dashboards and visualizations created.
-- `MeetingQuestions.pdf` – A document listing prepared questions for Tata's leadership team.
-- `README.md` – Project overview and documentation.
+`Tata Visualisation.pbix` – Power BI dashboard file used for the analysis and visualizations.
+- `Data-Analysis-Presentation.pdf` – Slide deck used to present insights and recommendations.
+- `Data-Analysis-Presentation-.mp4` – Recorded presentation video explaining the visuals and business impact.
+- `README.md` – Project overview and supporting documentation.
 
 ---
 
